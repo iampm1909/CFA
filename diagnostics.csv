@@ -1,0 +1,6 @@
+doc_id,title,status,pages_fetched,sentences,screened,with_deontic,kept_deontic,s4,s3,s2,unassigned,self_commitments,probably_exclude,you_addressed,goal_bullets,oss_mentions,boilerplate_leaks,long_sentences,fragments,duplicates,bullets_no_lead_in,verdict
+NCSC_001,New ETSI standard protects AI systems from evolving cyber threats,ok,1,29,17,8,6,2,1,3,2,1,2,0,0,0,0,0,1,0,0,generic OK
+NCSC_002,From bugs to bypasses: adapting vulnerability disclosure for AI safeguards,ok,1,90,54,49,46,4,5,37,34,0,3,0,0,0,0,0,1,0,0,generic OK
+NCSC_003,Raising the cyber resilience of software 'at scale',ok,1,58,37,15,14,3,3,8,11,1,1,1,0,1,0,0,0,0,0,generic OK
+NCSC_004,Impact of AI on cyber threat from now to 2027,ok,1,83,41,13,8,2,0,6,6,0,5,0,0,3,0,0,0,1,0,generic OK
+NCSC_005,Machine learning principles,ok,22,571,437,319,244,33,75,136,149,0,75,76,5,9,0,0,3,12,0,mostly addressed to 'you': record the document audience | goal/outcome lists: needs a team decision rule (implied obligations)

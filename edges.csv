@@ -1,0 +1,23 @@
+doc_id,issuer,actor,statements,strengths,weight,self_loop
+NCSC_001,NCSC,UNSPECIFIED,2,"4, 4",8,False
+NCSC_001,NCSC,developers,1,2,2,False
+NCSC_001,NCSC,government,1,3,3,True
+NCSC_001,NCSC,industry / academia / partners,1,2,2,False
+NCSC_001,NCSC,supply chain / stakeholders,2,"2, 2",4,False
+NCSC_002,NCSC,UNSPECIFIED,34,"2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 4, 3, 2, 2, 2, 2, 2, 2, 2, 4, 2, 2, 2, 2, 3, 2, 3, 3, 2, 2, 2, 2",76,False
+NCSC_002,NCSC,developers,4,"4, 2, 3, 4",13,False
+NCSC_002,NCSC,end users,1,2,2,False
+NCSC_002,NCSC,government,6,"2, 2, 2, 2, 2, 2",12,False
+NCSC_003,NCSC,UNSPECIFIED,12,"4, 3, 2, 3, 4, 2, 2, 2, 4, 2, 3, 2",33,True
+NCSC_003,NCSC,vendors / suppliers,1,2,2,False
+NCSC_003,NCSC,you (document audience),1,2,2,False
+NCSC_004,NCSC,UNSPECIFIED,6,"4, 4, 2, 2, 2, 2",16,False
+NCSC_004,NCSC,government,2,"2, 2",4,False
+NCSC_005,NCSC,UNSPECIFIED,149,"4, 4, 2, 4, 2, 2, 3, 3, 2, 2, 2, 4, 2, 3, 3, 3, 3, 3, 2, 4, 2, 2, 2, 3, 3, 3, 3, 4, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 4, 2, 3, 4, 2, 2, 2, 2, 2, 2, 4, 2, 2, 2, 2, 4, 4, 2, 2, 3, 2, 3, 2, 4, 2, 4, 2, 2, 3, 2, 3, 2, 2, 3, 2, 3, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 2, 2, 3, 2, 2, 2, 2, 2, 4, 3, 4, 2, 2, 2, 2, 2, 3, 3, 2, 2, 2, 2, 3, 3, 2, 2, 3, 3, 4, 2, 2, 2, 2, 3, 4, 4, 3, 3, 3, 2, 2, 2, 3, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3, 3, 4, 4",380,False
+NCSC_005,NCSC,developers,10,"4, 3, 3, 3, 3, 3, 3, 2, 2, 2",28,False
+NCSC_005,NCSC,end users,1,2,2,False
+NCSC_005,NCSC,government,3,"3, 3, 3",9,False
+NCSC_005,NCSC,industry / academia / partners,3,"3, 3, 3",9,False
+NCSC_005,NCSC,providers,4,"2, 3, 3, 3",11,False
+NCSC_005,NCSC,supply chain / stakeholders,1,2,2,False
+NCSC_005,NCSC,you (document audience),64,"4, 4, 4, 4, 4, 4, 4, 3, 3, 3, 3, 2, 2, 2, 2, 3, 4, 4, 4, 4, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 4, 3, 3, 3, 2, 2, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 2, 2, 2, 2, 2, 3, 3, 2, 2, 3, 2, 3, 3, 2, 2, 2, 3, 2",176,False
