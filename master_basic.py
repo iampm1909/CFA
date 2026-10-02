@@ -2,7 +2,7 @@
 master_basic.py
 ---------------
 Generic first-pass coder. Reads data/sentences.csv (from fetch_first5.py, or any CSV with the
-same columns) and produces, per document, a table like Srinidhi's coding example:
+same columns) and produces, per document, a table like the coding example:
 
     output/statements.csv    one row per candidate statement:
                              statement | attribute | deontic (strength) | aim | object | conditions |
